@@ -250,7 +250,7 @@ def main():
                "Two tankers struck mines and caught fire near the Strait "
                "of Hormuz, Iran said. Drones fired at a US radar base in "
                "Bahrain were intercepted.",
-               font(F_SANS, 18), w2 - 206)
+               font(F_SANS, 17), w2 - 206)
     draw_tanker(d, M + w2 - 180, y2 + 52, 168, h2 - 68)
     # Summit
     x3 = M + w2 + 16
@@ -264,7 +264,7 @@ def main():
                "Beijing confirms the three leaders will meet in Shenzhen "
                "on Thursday, on the sidelines of the APEC summit China "
                "is hosting.",
-               font(F_SANS, 18), w2 - 206)
+               font(F_SANS, 17), w2 - 206)
     draw_flags(d, x3 + w2 - 180, y2 + 52, 168, h2 - 68)
 
     # ---- Row 3: three stories ----
